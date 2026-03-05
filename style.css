@@ -618,4 +618,21 @@ footer {
     grid-template-columns:1fr;
 }
 
+#portfolio .card a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 8px 20px;
+    background: #ff0057;
+    color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+#portfolio .card a:hover {
+    background: white;
+    color: #ff0057;
+}
+
 }
