@@ -108,7 +108,8 @@
           dengan tampilan menarik menggunakan HTML dan CSS.
         </p>
         <a href="https://github.com/maulidiaa12/dindaaa" target="_blank">
-          Lihat di GitHub
+    Lihat di GitHub
+</a>
         </a>
       </div>
 
@@ -222,4 +223,7 @@ function resetFarm() {
 </script>
 
 </body>
+
 </html>
+
+
